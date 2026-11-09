@@ -136,14 +136,6 @@ The following visualizations present the results of the sentiment analysis and m
 
 ![Confusion Matrix](results/confusion_matrix.png)
 
-### 4. Classification Report
-
-![Classification Report](results/classification_report.png)
-
-### 5. Sentiment Prediction Example
-
-![Prediction Example](results/prediction_example.png)
-
 ## 💡 Insights & Recommendations
 
 Based on the sentiment analysis results, several insights and recommendations can be identified:
